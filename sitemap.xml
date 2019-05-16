@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://sychev.github.io//404.html</loc>
+        <lastmod>2017-05-11</lastmod>
+    </url>
+    <url>
+        <loc>https://sychev.github.io//about.html</loc>
+        <lastmod>2013-09-24</lastmod>
+    </url>
+    <url>
+        <loc>https://sychev.github.io//blog/2019/second-post/second-post.html</loc>
+        <lastmod>2019-05-16</lastmod>
+    </url>
+    <url>
+        <loc>https://sychev.github.io//blog/2019/first-post/first-post.html</loc>
+        <lastmod>2019-05-15</lastmod>
+    </url>
+</urlset>
