@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+---
+title: "About"
+permalink: "/about/"
+layout: page
+---
 
-You can use the [editor on GitHub](https://github.com/sychev/sychev.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Installation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-### Markdown
+## Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - supports dark mode on macOS Mojave
+ - optional sidebar
+ - MathJax support
+ - no external ressources
+ - included archive page
+ - supports pagination
+ - feed generation
+ - responsive
+ - syntax highlighting
+ - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-```markdown
-Syntax highlighted code block
+## Based on
 
-# Header 1
-## Header 2
-### Header 3
+- [Hyde](https://github.com/poole/hyde)
+- [Minima](https://github.com/jekyll/minima)
+- [Lagrange](https://github.com/LeNPaul/Lagrange)
+- [Font Awesome](http://fontawesome.io/)
+- [KaTeX](https://katex.org/)
+- [Pygments](https://github.com/richleland/pygments-css)
 
-- Bulleted
-- List
+## Installation (jekyll-remote-theme method)
 
-1. Numbered
-2. List
+You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
-**Bold** and _Italic_ and `Code` text
+```yaml
+remote_theme: niklasbuschmann/contrast@v2.8
 
-[Link](url) and ![Image](src)
+plugins:
+  - jekyll-remote-theme
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## License
 
-### Jekyll Themes
+[public domain](http://unlicense.org/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sychev/sychev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Screenshots
 
-### Support or Contact
+![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![screenshot](https://user-images.githubusercontent.com/4943215/73125195-5fa42200-3fa4-11ea-89f8-d09c1d6fe252.png)
+
