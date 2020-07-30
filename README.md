@@ -1,53 +1,17 @@
 ---
-title: "About"
+title: "О сайте"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Мотив
 
-Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Этот сайт — это сборник материалов хорошего качества. По крайней мере я стремлюсь, чтобы так оно и было. Мне, в первую очередь, хочется сделать хороший, простой сайт, без рекламы, с хорошей типографикой, который приятно читать. Хочется сделать этот сайт таким, чтобы он нравился в первую очередь мне. Знаете, есть модные тенденции, а есть то, что не модно, но нравится. Мне нравятся блоги, хотя они уже вышли из моды. Здесь можно делиться идеями, найти единомышленников. Здесь я не собираюсь создавать образ, как обычно это делают в Инстаграмме. Какой в этом смысл? Продать потом вам тренинг по успешной жизни? Ничего более глупого я придумать не могу. Этот сайт для другого — найти единомышленников, людей которые близки мне по духу, по образу мысли. Ещё — найти возможность высказаться, поделиться идеями, пережитым опытом. Я не говорю о том, что этот опыт обладает какой-либо абсолютной ценностью, для всех. Но для тех, кому он пригодится, он будет обладать ценностью. И это тоже хороший мотив, я думаю. 
 
-## Features
+## Об авторе
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.8
-
-plugins:
-  - jekyll-remote-theme
-```
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125195-5fa42200-3fa4-11ea-89f8-d09c1d6fe252.png)
-
+- Меня зовут Алексей Сычев. Я живу в городе Дмитров Московской области.
+- В 2007-м году я закончил Московский Государственный Университет Дизайна и Технологии.
+- С 2007-го по 2009-ый год я проходил службу в рядах Вооруженных Сил РФ в звании лейтенанта.
+- С 2009-го года занимаюсь программированием. На данный момент работаю на позиции инженера по тестированию в компании Luxoft. Моё [подробное резюме на сайте LinkedIn](https://www.linkedin.com/in/aleksey-sychev-165159165/).
+- Я — видео-энтузиаст. В свободное время занимаюсь съемкой и монтажем.

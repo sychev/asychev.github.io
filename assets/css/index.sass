@@ -32,3 +32,15 @@ body > footer
   box-shadow: 0 0 .6em rgba($dark, 0.04) inset
 
 {% endunless %}
+
+body
+  article
+    h1, h2, h3, h4, h5, h6
+      color: inherit
+
+    span.paragraph_link
+      color: reduce(20)
+      &:hover
+        color: reduce(80)
+
+// https://sass-lang.com/documentation/style-rules/parent-selector
