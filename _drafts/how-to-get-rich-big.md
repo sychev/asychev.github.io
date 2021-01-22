@@ -102,15 +102,19 @@ __Наваль__: То что вам нужно — это богатство. �
 Но они на самом деле играют в другую игру, которая называется игрой в статус. Они пытаются получить высокий статус в глазах других, говоря: «Ну, мне не нужны деньги. Я не хочу денег.»
 <!--But they’re actually playing the other game, which is the status game. They’re trying to be high status in the eyes of others by saying, “Well, I don’t need money. We don’t want money.” -->
 
-<!--Status is your ranking in the social hierarchy.-->
 Статус — это ваша позиция в социальной иерархии.
+<!--Status is your ranking in the social hierarchy.-->
 
+Богатство — это не игра с нулевой суммой. Каждый в мире может владеть домом. Если у вас есть дом, это не значит, что это как-то повлияло на мою возможность владеть домом. Кроме того, чем больше мы построим домов, тем легче нам будет строить следующие дома, тем больше мы будем совершенствовать технологию строительства, и тем больше людей смогут владеть домами.
 <!--Wealth is not a zero-sum game. Everybody in the world can have a house. Because you have a house doesn’t take away from my ability to have a house. If anything, the more houses that are built, the easier it becomes to build houses, the more we know about building houses, and the more people can have houses.-->
-
+ 
+Богатство — это игра с большой позитивной суммой. Мы создем вещи вместе. Мы начинаем это приключение чтобы создать произведение искусства, которое воплотит наши устремления. В конце концов будет создано что-то совершенно новое. Это и есть игра с позитивной суммой.
 <!--Wealth is a very positive-sum game. We create things together. We’re starting this endeavor to create a piece of art that explains what we’re doing. At the end of it, something brand new will be created. It’s a positive-sum game.-->
 
+## Статус — это очень старая игра
 <!--Status is a very old game-->
 
+Статус — с другой стороны — это игра с нулевой суммой. Это очень старая игра. Мы играем в неё со времен обезъяних стай. Она иерархична. Кто самый первый? А кто номер второй? Кто третий? И если номер три станет номером два, номер два должен освободить своё место. Так и получается, что статус — это игра с нулевой суммой.
 <!--Status, on the other hand, is a zero-sum game. It’s a very old game. We’ve been playing it since monkey tribes. It’s hierarchical. Who’s number one? Who’s number two? Who’s number three? And for number three to move to number two, number two has to move out of that slot. So, status is a zero-sum game.-->
 
 <!--Politics is an example of a status game. Even sports is an example of a status game. To be the winner, there must be a loser. Fundamentally, I don’t like status games. They play an important role in our society, so we can figure out who’s in charge. But you play them because they’re a necessary evil.-->
